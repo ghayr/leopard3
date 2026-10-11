@@ -1,0 +1,7 @@
+flask>=3.0,<4
+flask-httpauth>=4.8,<5
+openai>=1.40,<4
+python-dotenv>=1.0,<2
+waitress>=3.0,<4
+# Optional: only needed if you use the ngrok option via Python (run_ngrok.py)
+pyngrok>=7.0,<9
